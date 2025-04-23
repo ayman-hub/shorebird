@@ -1,0 +1,2 @@
+D:/nishan/test_shorebird/android/app/.cxx/RelWithDebInfo/4p371w26/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/nishan/test_shorebird/android/app/.cxx/RelWithDebInfo/4p371w26/arm64-v8a/CMakeFiles/rebuild_cache.dir
